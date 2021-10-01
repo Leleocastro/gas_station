@@ -58139,7 +58139,7 @@ KP:function(a,b,c){var s=0,r=P.a6(t.gj),q,p=this,o
 var $async$pd=P.a0(function(d,e){if(d===1)return P.a3(e,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return P.a7(G.asr(p.Ss(b,c),P.az(["Access-Control-Allow-Origin","*"],o,o)),$async$pd)
+return P.a7(G.asr(p.Ss(b,c),P.az(["Content-Type","application/json; charset=UTF-8","Access-Control-Allow-Methods","*","Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","*"],o,o)),$async$pd)
 case 3:q=p.XG(e,null)
 s=1
 break
