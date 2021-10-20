@@ -61064,7 +61064,7 @@ else{s=this.b
 if(s!=null)return s.$1(a)}return null},
 $S:48}
 R.Oz.prototype={
-Dw(a,b){var s,r,q,p,o=P.mt("https://app.yetgo.com.br/api/v3/"+this.a+a)
+Dw(a,b){var s,r,q,p,o=P.mt("https://brasil.app.staging.yetgo.com.br/api/v3/"+this.a+a)
 if(b!=null){s=o.gdr()
 r=o.gne()
 q=o.gh3(o)
