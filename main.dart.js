@@ -14002,7 +14002,7 @@ l=s.i(a,"document")
 k=s.i(a,"phone")
 j=s.i(a,"social_unique_id")
 s=s.i(a,"login_by")
-return new N.oX(q,p,o,n,m,l,k,j,s,J.f(r,"")?null:r)},
+return new N.oX(q,p,o,n,m,l,k,j,s,J.f(r,"")||r==null?"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Placeholder_no_text.svg/1200px-Placeholder_no_text.svg.png":r)},
 oX:function oX(a,b,c,d,e,f,g,h,i,j){var _=this
 _.a=a
 _.b=b
